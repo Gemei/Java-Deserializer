@@ -1,7 +1,9 @@
 # Java-Deserializer
 This project is inteded to give the option to deserialize any java object to intermediate representation of the types, instances, and values.
 
-Using Jar created by @unsynchronized to do all the heavy lifting.
+Can also take saved burp request with serialized objects and deserialize them. 
+
+Using Jar created by @unsynchronized to do all the heavy lifting really.
 https://github.com/unsynchronized/jdeserialize
 
 Example Console Output
